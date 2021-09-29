@@ -1,0 +1,31 @@
+:root{
+    --primary-color:
+    #FBBF24;
+
+    
+
+
+
+}
+
+
+
+
+.container{
+    padding: 2rem 1rem;
+    font-size:3rem;
+    background-color: var(--primary-color);
+    text-align:center;
+   
+}
+#btn-translate{
+    font-weight: 600;
+
+}
+.footer-container{
+    background-color: var(--primary-color);
+
+}
+.text-info{
+    text-align:center
+}
